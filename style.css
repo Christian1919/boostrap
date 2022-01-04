@@ -1,0 +1,17 @@
+.app {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.progress {
+  width: 400px;
+}
+.progress-bar {
+  transition: none;
+}
+.btn-group {
+  margin-top: 40px;
+  margin-left: 150px;
+  transform: scale(2);
+}
